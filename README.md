@@ -1,3 +1,46 @@
+# Monkeypox virus (monkeypox)
+
+## Reference sequence
+RefSeq GCF_014621545.1
+
+## Taxon
+Monkeypox virus (monkeypox)
+
+## Assembly statistics
+>These statistics describe the nuclear genome of the reference sequence, GCF_014621545.1
+
+```
+Genome size
+197.2 kb [197,209]
+Number of chromosomes
+1
+Number of scaffolds
+1
+GC percent
+33%
+Assembly level
+Complete Genome
+```
+
+## Annotation details
+
+```
+Provider
+Name
+NCBI RefSeq
+Date
+May 30, 2022
+Genes
+179
+Protein-coding
+179
+Non-coding
+0
+```
+
+
+https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_014621545.1/
+
 # NCBI Datasets
 
 https://www.ncbi.nlm.nih.gov/datasets
